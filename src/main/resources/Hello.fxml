@@ -5,7 +5,7 @@
 
 <BorderPane xmlns="http://javafx.com/javafx/11.0.2"
             xmlns:fx="http://javafx.com/fxml/1"
-            fx:controller="Hello">
+            fx:controller="HelloWindowCtrl">
     <center>
         <Button fx:id="greetButton" />
     </center>

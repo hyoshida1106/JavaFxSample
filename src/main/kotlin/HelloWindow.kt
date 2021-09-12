@@ -1,0 +1,1 @@
+class HelloWindow: BaseWindow<HelloWindowCtrl>("/Hello.fxml") { }
